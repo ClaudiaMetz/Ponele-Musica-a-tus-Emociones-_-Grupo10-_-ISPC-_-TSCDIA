@@ -1,5 +1,5 @@
 <h1 align="center">
-  GRUPO 10 - Generador de Collages Personalizado - ISPC
+  GRUPO 10 - Generador de Collages Personalizados - ISPC
 </h1>
 
 <p align="center">
