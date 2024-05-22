@@ -1,5 +1,5 @@
 <h1 align="center">
-  GRUPO 10 - Generador de Collages Personalizados - ISPC
+  GRUPO 10 - Ponele Música a Tus Emociones - ISPC
 </h1>
 
 <p align="center">
