@@ -7,12 +7,12 @@
 </p>
 <h2 align="center">Integrantes: 👩🏾‍💻 </h2>
 <h5 align="center">Hilgemberg Maria Sol<br>
-Soria Julio Ezequiel<br>
-Bustos Jonathan<br>
-Metz Claudia<br>
-Quiroga Horacio Eduardo<br>
-Meier Ivan Didier<br>
-Muñoz Mariel<br></h5>
+<b>Soria Julio Ezequiel</b><br>
+<b>Bustos Jonathan</b><br>
+<b>Metz Claudia</b><br>
+<b>Quiroga Horacio Eduardo</b><br>
+<b>Meier Ivan Didier</b><br>
+<b>Muñoz Mariel</b><br></h5>
 
 ---
 
