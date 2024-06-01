@@ -20,4 +20,41 @@
 
 
 # Ponele Música a Tus Emociones---Grupo10---ISPC---TSCDIA
-Este proyecto desarrollado para el Módulo Científico de Datos combina técnicas de Aprendizaje Automático o Machine Learning (ML), Minería de Datos, Procesamiento de Imágenes, Procesamiento del Habla. 
+
+---
+
+<h4>PROYECTO: </h4>
+<br>
+"Ponele Música a tus Emociones"<br>
+Idea Principal: Detectar la Emoción en una foto y Recomendar una Canción
+<br>
+<p>Este trabajo combina técnicas de Procesamiento de Imágenes y Procesamiento del Habla para crear una experiencia única: El usuario suministra una fotografía por medio de la computadora. Primero se analiza la emoción predominante en la foto utilizando un modelo de aprendizaje profundo. Luego, en base a esa emoción detectada, se genera una frase relacionada con la emoción. Finalmente, se selecciona una canción de una base de datos o conjunto de temas musicales y la expresa con un audio. Para su desarrollo utilizamos téçnicas de Minería de Datos y obviamente Aprendizaje Automático. El resultado es una recomendación musical personalizada basada en la imagen y el estado emocional del usuario.<br></p>
+
+---
+
+A continuación se observa las importaciones de bibliotecas de Python que son útiles para procesamiento de imágenes, visualización de datos, y construcción de modelos de aprendizaje automático y profundo:
+<br>
+<h3>NumPy (import numpy as np):</h3>
+<h3>SciPy (from scipy import misc</h3>
+<h3>PIL (Python Imaging Library)</h3>
+<h3>glob (import glob</h3>
+<h3>Matplotlib (import matplotlib.pyplot as plt y from matplotlib.pyplot import imshow)</h3>
+<h3>IPython.display (from IPython.display import SVG)</h3>
+<h3>OpenCV (import cv2):</h3>
+<h3>Seaborn (import seaborn as sn)</h3>
+<h3>Pandas (import pandas as pd)</h3>
+<h3>pickle (import pickle)</h3>
+<h3>Keras (import keras y varios submódulos)</h3>
+<h3>TensorFlow (import tensorflow as tf y submódulos de Keras dentro de TensorFlow) </h3>
+<h3>Scikit-learn (from sklearn.metrics import confusion_matrix, classification_report)</h3>
+<h3>ImageDataGenerator (from tensorflow.keras.preprocessing.image import ImageDataGenerator)</h3>
+<h3>VGG (from keras.applications import vgg16, vgg19)</h3>
+<h3>Estas importaciones proporcionan un conjunto robusto de herramientas para el procesamiento y análisis de imágenes, construcción y entrenamiento de modelos de aprendizaje profundo, y evaluación del rendimiento de los modelos en Python.</h3>
+---
+
+---
+
+<a href="https://colab.research.google.com/drive/1sBUoxynUD6sMLKzoyhbx87a5L5go1IF7#scrollTo=AyjhRHnhVrnz"> COLAB 🌟<br>
+
+
+
