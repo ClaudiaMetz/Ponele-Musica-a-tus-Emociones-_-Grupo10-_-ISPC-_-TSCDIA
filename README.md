@@ -28,11 +28,12 @@
 "Ponele Música a tus Emociones"<br>
 Idea Principal: Detectar la Emoción en una foto y Recomendar una Canción
 <br>
-<p>Este trabajo combina técnicas de Procesamiento de Imágenes y Procesamiento del Habla para crear una experiencia única: El usuario suministra una fotografía por medio de la computadora. Primero se analiza la emoción predominante en la foto utilizando un modelo de aprendizaje profundo. Luego, en base a esa emoción detectada, se genera una frase relacionada con la emoción. Finalmente, se selecciona una canción de una base de datos o conjunto de temas musicales y la expresa con un audio. Para su desarrollo utilizamos téçnicas de Minería de Datos y obviamente Aprendizaje Automático. El resultado es una recomendación musical personalizada basada en la imagen y el estado emocional del usuario.<br></p>
+<p>Este trabajo combina técnicas de Procesamiento de Imágenes y Procesamiento del Habla para crear una experiencia única: El usuario suministra una fotografía por medio de la computadora. Primero se analiza la emoción predominante en la foto utilizando un modelo de Aprendizaje P
+rofundo. Luego se selecciona una canción de una base de datos o conjunto de temas musicales y la expresa con un audio. Para su desarrollo utilizamos téçnicas de Minería de Datos y obviamente Aprendizaje Automático. El resultado es una recomendación musical personalizada basada en la imagen y el estado emocional del usuario.<br></p>
 
 ---
 
-A continuación se observa las importaciones de bibliotecas de Python que son útiles para procesamiento de imágenes, visualización de datos, y construcción de modelos de aprendizaje automático y profundo:
+A continuación se observa las importaciones de bibliotecas de Python que son útiles para procesamiento de imágenes, visualización de datos y construcción de modelos de aprendizaje automático y profundo:
 <br>
 <h3>NumPy (import numpy as np):</h3>
 <h3>SciPy (from scipy import misc</h3>
