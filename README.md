@@ -58,5 +58,5 @@ A continuación se observa las importaciones de bibliotecas de Python que son ú
 
 <a href="https://colab.research.google.com/drive/1sBUoxynUD6sMLKzoyhbx87a5L5go1IF7#scrollTo=AyjhRHnhVrnz"> COLAB 🌟<br>
 
-
+<a href="https://colab.research.google.com/drive/12faMWJeMDSSs2MvHXCcXVDVJEoanG5j_"> COLAB2 🌟<br>
 
