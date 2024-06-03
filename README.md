@@ -49,7 +49,7 @@ A continuación se observa las importaciones de bibliotecas de Python que son ú
 <h3>Scikit-learn (from sklearn.metrics import confusion_matrix, classification_report)</h3>
 <h3>ImageDataGenerator (from tensorflow.keras.preprocessing.image import ImageDataGenerator)</h3>
 <h3>VGG (from keras.applications import vgg16, vgg19)</h3>
-<p>Estas importaciones proporcionan un conjunto robusto de herramientas para el Procesamiento y Análisis de Imágenes, construcción y entrenamiento de modelos de Aprendizaje Profundo, y evaluación del rendimiento de los modelos en Python.</p>
+<p>Estas importaciones proporcionan un conjunto robusto de herramientas para el Procesamiento y Análisis de Imágenes, construcción y entrenamiento de modelos de Aprendizaje Profundo y evaluación del rendimiento de los modelos en Python.</p>
 ---
 
 ---
