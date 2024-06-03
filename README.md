@@ -28,8 +28,7 @@
 "Ponele Música a tus Emociones"<br>
 Idea Principal: Detectar la Emoción en una foto y Recomendar una Canción
 <br>
-<p>Este trabajo combina técnicas de Procesamiento de Imágenes y Procesamiento del Habla para crear una experiencia única: El usuario suministra una fotografía por medio de la computadora. Primero se analiza la emoción predominante en la foto utilizando un modelo de Aprendizaje P
-rofundo. Luego se selecciona una canción de una base de datos o conjunto de temas musicales y la expresa con un audio. Para su desarrollo utilizamos téçnicas de Minería de Datos y obviamente Aprendizaje Automático. El resultado es una recomendación musical personalizada basada en la imagen y el estado emocional del usuario.<br></p>
+<p>Este trabajo combina técnicas de Procesamiento de Imágenes y Procesamiento del Habla para crear una experiencia única: El usuario suministra una fotografía por medio de la computadora. Primero se analiza la emoción predominante en la foto utilizando un modelo de Aprendizaje Profundo. Luego se selecciona una canción de una base de datos o conjunto de temas musicales y la expresa con un audio. Para su desarrollo utilizamos técnicas de Minería de Datos y obviamente Aprendizaje Automático. El resultado es una recomendación musical personalizada basada en la imagen y el estado emocional del usuario.<br></p>
 
 ---
 
