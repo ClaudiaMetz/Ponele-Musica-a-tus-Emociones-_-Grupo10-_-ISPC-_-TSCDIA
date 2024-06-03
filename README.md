@@ -32,7 +32,7 @@ Idea Principal: Detectar la Emoción en una foto y Recomendar una Canción
 
 ---
 
-A continuación se observa las importaciones de bibliotecas de Python que son útiles para procesamiento de imágenes, visualización de datos y construcción de modelos de aprendizaje automático y profundo:
+A continuación se observa las importaciones de bibliotecas de Python que son útiles para Procesamiento de Imágenes, Visualización de Datos y construcción de Modelos de Aprendizaje Automático y Aprendizaje Profundo:
 <br>
 <h3>NumPy (import numpy as np):</h3>
 <h3>SciPy (from scipy import misc</h3>
