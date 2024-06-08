@@ -25,7 +25,7 @@
 
 <b>Idea Principal:</b> Detectar la Emoción en una foto y Recomendar una Canción
 <br>
-<p>Este trabajo combina técnicas de Procesamiento de Imágenes y Procesamiento del Habla para crear una experiencia única: El usuario suministra una fotografía por medio de la computadora. Primero se analiza la emoción predominante en la foto utilizando un modelo de Aprendizaje Profundo. Luego se selecciona una canción de una base de datos o conjunto de temas musicales y la expresa con un audio. Para su desarrollo utilizamos técnicas de Minería de Datos y obviamente Aprendizaje Automático. El resultado es una recomendación musical personalizada basada en la imagen y el estado emocional del usuario.<br></p>
+<p><b>Este trabajo combina técnicas de Procesamiento de Imágenes y Procesamiento del Habla para crear una experiencia única: El usuario suministra una fotografía por medio de la computadora. Primero se analiza la emoción predominante en la foto utilizando un modelo de Aprendizaje Profundo. Luego se selecciona una canción de una base de datos o conjunto de temas musicales y la expresa con un audio. Para su desarrollo utilizamos técnicas de Minería de Datos y obviamente Aprendizaje Automático. El resultado es una recomendación musical personalizada basada en la imagen y el estado emocional del usuario.<b><br></p>
 
 ---
 
@@ -50,8 +50,8 @@ A continuación se observa las importaciones de bibliotecas de Python que son ú
 
 ---
 
-Para este proyecto se uso el dataset FER2013 <br>
-- [Dataset 🌟](https://drive.google.com/file/d/1vtWxb5LioAATFb5Qypqa0zavj4NPoj06/view?usp=drive_link)
+Para este proyecto se usó el dataset FER2013 <br>
+- <a href="https://drive.google.com/file/d/1vtWxb5LioAATFb5Qypqa0zavj4NPoj06/view?usp=drive_link" target="_blank">Dataset 🌟</a>
 
 ---
 Aquí encontrarán nuestro modelo:
