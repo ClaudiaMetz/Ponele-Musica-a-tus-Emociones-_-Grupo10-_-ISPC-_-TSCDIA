@@ -51,7 +51,7 @@ A continuación se observa las importaciones de bibliotecas de Python que son ú
 ---
 
 Para este proyecto se usó el dataset FER2013 <br>
-- <a href="https://drive.google.com/file/d/1vtWxb5LioAATFb5Qypqa0zavj4NPoj06/view?usp=drive_link" onclick="window.open(this.href, '_blank'); return false;">Dataset 🌟</a>
+- [Dataset 🌟](https://drive.google.com/file/d/1vtWxb5LioAATFb5Qypqa0zavj4NPoj06/view?usp=drive_link)
 
 ---
 Aquí encontrarán nuestro modelo:
